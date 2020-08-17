@@ -63,7 +63,7 @@ function Projects() {
                 )}
                 <span style={{ fontSize: 20 }}>
                   Link:
-                  <a href={project.link}>
+                  <a href={project.link} target="_blank">
                     {project.link.replace("https://", " ")}
                   </a>
                 </span>
