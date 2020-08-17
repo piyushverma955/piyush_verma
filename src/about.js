@@ -12,16 +12,15 @@ function About() {
         src={background}
       />
       <div style={{ margin: "5%", width: "70%" }}>
-        <span style={{ color: "#3299a8", fontSize: 40 }}>About</span>
+        <span style={{ color: "#3299a8", fontSize: 40 }}>About Me</span>
         <br />
         <p style={{ fontSize: 20 }}>
           I have 2.5+ years building experience of highly performant and
           scalable applications as a full-stack developer.
         </p>
         <p style={{ fontSize: 20 }}>
-          Proficient on Nodejs, Expressjsa and ReactJS frameworks.{" "}
+          Proficient in NodeJS, ExpressJS and ReactJS frameworks.{" "}
         </p>
-        <br />
         <p style={{ fontSize: 20 }}>
           Worked on the databases MYSQL , PostGreSQL, Mongodb.
         </p>
@@ -29,7 +28,6 @@ function About() {
           I am a result driven individual accomplished in design and development
           of software solutions.
         </p>
-        <br />
         <p style={{ fontSize: 20 }}>
           Passionate about learning new stuff and implementing them to make
           everyday life more comfortable.

@@ -3,11 +3,11 @@ import { Progress, Row, Col } from "antd";
 
 function Skills() {
   const skills = [
-    { name: "JavaScript", value: 80 },
-    { name: "Data Structure", value: 80 },
-    { name: "Algorithm", value: 80 },
-    { name: "RDBMS", value: 70 },
-    { name: "No SQL", value: 70 },
+    { name: "ReactJS", value: 80 },
+    { name: "NodeJS", value: 80 },
+    { name: "DS & Algo", value: 80 },
+    { name: "RDBMS(MySQL & Postgres)", value: 70 },
+    { name: "No SQL(MongoDB)", value: 70 },
     { name: "Git", value: 70 },
     { name: "Micro Services", value: 70 },
     { name: "Distributed Systems", value: 60 }
@@ -26,11 +26,10 @@ function Skills() {
               <Col span={18}>
                 <Progress
                   strokeColor={{
-                    from: "#108ee9",
-                    to: "#87d068"
+                    from: "#3299a8",
+                    to: "#3299a8"
                   }}
                   percent={skill.value}
-                  status="active"
                   strokeWidth={10}
                   showInfo={false}
                 />

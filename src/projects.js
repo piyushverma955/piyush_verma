@@ -8,23 +8,26 @@ function Projects() {
     {
       title: "FaceBook Chat Bot",
       one:
-        "A Basic facebook ChatBot Using FaceBook Api, dialogflow, Node.JS and MongoDb.",
+        "A Basic facebook ChatBot Using FaceBook Api, dialogflow, NodeJS and MongoDb.",
       two:
         "Logging all the chat conversations in a DB of choice/ or in a textfile.",
-      img: bot
+      img: bot,
+      link: "https://github.com/piyushverma955/facebook-chat-bot"
     },
     {
       title: "Node Boilerplate App",
       one: "A Basic Node.JS application to accelerate your development.",
       two:
-        "his application will give you a basic template for a node.Js application including swagger-express, mongoDb plugin.",
-      img: boilerPlate
+        "This application will give you a basic template for a NodeJs application including swagger-express, mongoDb plugin.",
+      img: boilerPlate,
+      link: "https://github.com/piyushverma955/node-boilerplate-app"
     },
     {
       title: "Node Kubernitify",
       one:
-        " A simple application to dockerise node application and run it onKubernets.",
-      img: kubernetes
+        " A simple application to dockerise Node application and run it on Kubernets.",
+      img: kubernetes,
+      link: "https://github.com/piyushverma955/node-kubernitify"
     }
   ];
   return (
@@ -52,7 +55,18 @@ function Projects() {
                 <br />
                 <span style={{ fontSize: 20 }}>{project.one}</span>
                 <br />
-                <span style={{ fontSize: 20 }}>{project.two}</span>
+                {project.two && (
+                  <>
+                    <span style={{ fontSize: 20 }}>{project.two}</span>
+                    <br />
+                  </>
+                )}
+                <span style={{ fontSize: 20 }}>
+                  Link:
+                  <a href={project.link}>
+                    {project.link.replace("https://", " ")}
+                  </a>
+                </span>
               </Col>
             </Row>
           );

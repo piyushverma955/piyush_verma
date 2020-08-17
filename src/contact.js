@@ -1,5 +1,5 @@
 import React from "react";
-import { Row, Col } from "antd";
+import { Avatar, Row, Col } from "antd";
 import {
   LinkedinOutlined,
   GithubOutlined,
@@ -7,6 +7,7 @@ import {
   InstagramOutlined,
   MediumOutlined
 } from "@ant-design/icons";
+import logo from "./assets/images/so-icon.svg";
 
 function Contact() {
   let details = [
@@ -30,6 +31,11 @@ function Contact() {
       icon: <GoogleOutlined style={{ fontSize: 30 }} />
     },
     {
+      link: "https://stackoverflow.com/users/5889334/piyush",
+      name: "stackoverflow.com/users/5889334",
+      icon: <Avatar src={logo} />
+    },
+    {
       link: "https://medium.com/@piyushverma955",
       name: "medium.com/@piyushverma955",
       icon: <MediumOutlined style={{ fontSize: 30 }} />
@@ -37,7 +43,7 @@ function Contact() {
   ];
   return (
     <div style={{ margin: "5% 5% 0%", width: "60%" }}>
-      <span style={{ color: "#3299a8", fontSize: 40 }}>Contact Me</span>
+      <span style={{ color: "#3299a8", fontSize: 40 }}>Relevent Links</span>
       <br />
       <Row>
         {details.map((detail, i) => {
