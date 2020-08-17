@@ -3,8 +3,8 @@ import { Progress, Row, Col } from "antd";
 
 function Skills() {
   const skills = [
-    { name: "ReactJS", value: 80 },
-    { name: "NodeJS", value: 80 },
+    { name: "React JS", value: 80 },
+    { name: "Node JS", value: 80 },
     { name: "DS & Algo", value: 80 },
     { name: "RDBMS(MySQL & Postgres)", value: 70 },
     { name: "No SQL(MongoDB)", value: 70 },

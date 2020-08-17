@@ -5,9 +5,11 @@ import {
   GithubOutlined,
   GoogleOutlined,
   InstagramOutlined,
-  MediumOutlined
+  MediumOutlined,
+  FilePdfOutlined
 } from "@ant-design/icons";
 import logo from "./assets/images/so-icon.svg";
+import resume from "./assets/Resume.pdf";
 
 function Contact() {
   let details = [
@@ -39,6 +41,11 @@ function Contact() {
       link: "https://medium.com/@piyushverma955",
       name: "medium.com/@piyushverma955",
       icon: <MediumOutlined style={{ fontSize: 30 }} />
+    },
+    {
+      link: resume,
+      name: "Resume",
+      icon: <FilePdfOutlined style={{ fontSize: 30 }} />
     }
   ];
   return (
@@ -62,8 +69,8 @@ function Contact() {
                 style={{ fontSize: 20, color: "gray" }}
               >
                 <div style={{ display: "inline-flex" }}>
-                  {detail.icon}
-                  {detail.name}
+                  {detail.icon}{" "}
+                  <span style={{ marginLeft: "2%" }}>{detail.name}</span>
                 </div>
               </a>
             </Col>

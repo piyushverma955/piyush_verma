@@ -5,7 +5,7 @@ import logo from "./assets/images/piyush.png";
 function NavBar(props) {
   const { selectTab, selectedButton } = props;
   const titles = [
-    "About",
+    "About Me",
     "Skills",
     "Career",
     "Few Projects",
