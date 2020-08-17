@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/piyush_verma/static/css/main.31df7a71.chunk.css",
-    "main.js": "/piyush_verma/static/js/main.d8116621.chunk.js",
-    "main.js.map": "/piyush_verma/static/js/main.d8116621.chunk.js.map",
+    "main.js": "/piyush_verma/static/js/main.0d08a103.chunk.js",
+    "main.js.map": "/piyush_verma/static/js/main.0d08a103.chunk.js.map",
     "runtime-main.js": "/piyush_verma/static/js/runtime-main.a3db269e.js",
     "runtime-main.js.map": "/piyush_verma/static/js/runtime-main.a3db269e.js.map",
     "static/css/2.04ff9426.chunk.css": "/piyush_verma/static/css/2.04ff9426.chunk.css",
-    "static/js/2.53ef6ff9.chunk.js": "/piyush_verma/static/js/2.53ef6ff9.chunk.js",
-    "static/js/2.53ef6ff9.chunk.js.map": "/piyush_verma/static/js/2.53ef6ff9.chunk.js.map",
+    "static/js/2.b91d598d.chunk.js": "/piyush_verma/static/js/2.b91d598d.chunk.js",
+    "static/js/2.b91d598d.chunk.js.map": "/piyush_verma/static/js/2.b91d598d.chunk.js.map",
     "index.html": "/piyush_verma/index.html",
-    "precache-manifest.3f95496851a87fae22d17c997abe97b1.js": "/piyush_verma/precache-manifest.3f95496851a87fae22d17c997abe97b1.js",
+    "precache-manifest.fd8770a31fe7aaa265bb54fcf3980868.js": "/piyush_verma/precache-manifest.fd8770a31fe7aaa265bb54fcf3980868.js",
     "service-worker.js": "/piyush_verma/service-worker.js",
     "static/css/2.04ff9426.chunk.css.map": "/piyush_verma/static/css/2.04ff9426.chunk.css.map",
     "static/css/main.31df7a71.chunk.css.map": "/piyush_verma/static/css/main.31df7a71.chunk.css.map",
-    "static/js/2.53ef6ff9.chunk.js.LICENSE.txt": "/piyush_verma/static/js/2.53ef6ff9.chunk.js.LICENSE.txt",
+    "static/js/2.b91d598d.chunk.js.LICENSE.txt": "/piyush_verma/static/js/2.b91d598d.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/piyush_verma/static/media/Resume.6977dbac.pdf",
     "static/media/background.png": "/piyush_verma/static/media/background.b293ed2b.png",
     "static/media/boilerPlate.jpg": "/piyush_verma/static/media/boilerPlate.225d56bd.jpg",
     "static/media/bot.jpg": "/piyush_verma/static/media/bot.23d2ab94.jpg",
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.a3db269e.js",
     "static/css/2.04ff9426.chunk.css",
-    "static/js/2.53ef6ff9.chunk.js",
+    "static/js/2.b91d598d.chunk.js",
     "static/css/main.31df7a71.chunk.css",
-    "static/js/main.d8116621.chunk.js"
+    "static/js/main.0d08a103.chunk.js"
   ]
 }
