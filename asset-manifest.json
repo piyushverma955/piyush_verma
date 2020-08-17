@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/piyush_verma/static/css/main.31df7a71.chunk.css",
-    "main.js": "/piyush_verma/static/js/main.546dbf4a.chunk.js",
-    "main.js.map": "/piyush_verma/static/js/main.546dbf4a.chunk.js.map",
+    "main.js": "/piyush_verma/static/js/main.d8116621.chunk.js",
+    "main.js.map": "/piyush_verma/static/js/main.d8116621.chunk.js.map",
     "runtime-main.js": "/piyush_verma/static/js/runtime-main.a3db269e.js",
     "runtime-main.js.map": "/piyush_verma/static/js/runtime-main.a3db269e.js.map",
     "static/css/2.04ff9426.chunk.css": "/piyush_verma/static/css/2.04ff9426.chunk.css",
-    "static/js/2.2d19df8c.chunk.js": "/piyush_verma/static/js/2.2d19df8c.chunk.js",
-    "static/js/2.2d19df8c.chunk.js.map": "/piyush_verma/static/js/2.2d19df8c.chunk.js.map",
+    "static/js/2.53ef6ff9.chunk.js": "/piyush_verma/static/js/2.53ef6ff9.chunk.js",
+    "static/js/2.53ef6ff9.chunk.js.map": "/piyush_verma/static/js/2.53ef6ff9.chunk.js.map",
     "index.html": "/piyush_verma/index.html",
-    "precache-manifest.c71ccb184aa9ce75d85eb7f335cceae5.js": "/piyush_verma/precache-manifest.c71ccb184aa9ce75d85eb7f335cceae5.js",
+    "precache-manifest.3f95496851a87fae22d17c997abe97b1.js": "/piyush_verma/precache-manifest.3f95496851a87fae22d17c997abe97b1.js",
     "service-worker.js": "/piyush_verma/service-worker.js",
     "static/css/2.04ff9426.chunk.css.map": "/piyush_verma/static/css/2.04ff9426.chunk.css.map",
     "static/css/main.31df7a71.chunk.css.map": "/piyush_verma/static/css/main.31df7a71.chunk.css.map",
-    "static/js/2.2d19df8c.chunk.js.LICENSE.txt": "/piyush_verma/static/js/2.2d19df8c.chunk.js.LICENSE.txt",
-    "static/media/background.png": "/piyush_verma/static/media/background.808d33b6.png",
+    "static/js/2.53ef6ff9.chunk.js.LICENSE.txt": "/piyush_verma/static/js/2.53ef6ff9.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/piyush_verma/static/media/background.b293ed2b.png",
     "static/media/boilerPlate.jpg": "/piyush_verma/static/media/boilerPlate.225d56bd.jpg",
     "static/media/bot.jpg": "/piyush_verma/static/media/bot.23d2ab94.jpg",
-    "static/media/piyush.png": "/piyush_verma/static/media/piyush.621b1dde.png"
+    "static/media/piyush.png": "/piyush_verma/static/media/piyush.8c220ec1.png",
+    "static/media/so-icon.svg": "/piyush_verma/static/media/so-icon.2e5bb635.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a3db269e.js",
     "static/css/2.04ff9426.chunk.css",
-    "static/js/2.2d19df8c.chunk.js",
+    "static/js/2.53ef6ff9.chunk.js",
     "static/css/main.31df7a71.chunk.css",
-    "static/js/main.546dbf4a.chunk.js"
+    "static/js/main.d8116621.chunk.js"
   ]
 }
