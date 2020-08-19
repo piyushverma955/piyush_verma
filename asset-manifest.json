@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/piyush_verma/static/css/main.31df7a71.chunk.css",
-    "main.js": "/piyush_verma/static/js/main.9b686a9d.chunk.js",
-    "main.js.map": "/piyush_verma/static/js/main.9b686a9d.chunk.js.map",
+    "main.js": "/piyush_verma/static/js/main.ef3d8db8.chunk.js",
+    "main.js.map": "/piyush_verma/static/js/main.ef3d8db8.chunk.js.map",
     "runtime-main.js": "/piyush_verma/static/js/runtime-main.a3db269e.js",
     "runtime-main.js.map": "/piyush_verma/static/js/runtime-main.a3db269e.js.map",
     "static/css/2.04ff9426.chunk.css": "/piyush_verma/static/css/2.04ff9426.chunk.css",
-    "static/js/2.b91d598d.chunk.js": "/piyush_verma/static/js/2.b91d598d.chunk.js",
-    "static/js/2.b91d598d.chunk.js.map": "/piyush_verma/static/js/2.b91d598d.chunk.js.map",
+    "static/js/2.537e514a.chunk.js": "/piyush_verma/static/js/2.537e514a.chunk.js",
+    "static/js/2.537e514a.chunk.js.map": "/piyush_verma/static/js/2.537e514a.chunk.js.map",
     "index.html": "/piyush_verma/index.html",
-    "precache-manifest.f3ef26d712c356d1e6819ed086d1c0b6.js": "/piyush_verma/precache-manifest.f3ef26d712c356d1e6819ed086d1c0b6.js",
+    "precache-manifest.dd4fcbc36a5a6f2d9729424885bf236f.js": "/piyush_verma/precache-manifest.dd4fcbc36a5a6f2d9729424885bf236f.js",
     "service-worker.js": "/piyush_verma/service-worker.js",
     "static/css/2.04ff9426.chunk.css.map": "/piyush_verma/static/css/2.04ff9426.chunk.css.map",
     "static/css/main.31df7a71.chunk.css.map": "/piyush_verma/static/css/main.31df7a71.chunk.css.map",
-    "static/js/2.b91d598d.chunk.js.LICENSE.txt": "/piyush_verma/static/js/2.b91d598d.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/piyush_verma/static/media/Resume.6977dbac.pdf",
+    "static/js/2.537e514a.chunk.js.LICENSE.txt": "/piyush_verma/static/js/2.537e514a.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/piyush_verma/static/media/Resume.d29b1df2.pdf",
     "static/media/background.png": "/piyush_verma/static/media/background.b293ed2b.png",
     "static/media/boilerPlate.jpg": "/piyush_verma/static/media/boilerPlate.225d56bd.jpg",
     "static/media/bot.jpg": "/piyush_verma/static/media/bot.23d2ab94.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.a3db269e.js",
     "static/css/2.04ff9426.chunk.css",
-    "static/js/2.b91d598d.chunk.js",
+    "static/js/2.537e514a.chunk.js",
     "static/css/main.31df7a71.chunk.css",
-    "static/js/main.9b686a9d.chunk.js"
+    "static/js/main.ef3d8db8.chunk.js"
   ]
 }
