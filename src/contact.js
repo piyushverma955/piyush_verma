@@ -32,11 +32,11 @@ function Contact() {
       name: "piyushverma955@gmail.com",
       icon: <GoogleOutlined style={{ fontSize: 30 }} />
     },
-    {
+    /*{
       link: "https://stackoverflow.com/users/5889334/piyush",
       name: "stackoverflow.com/users/5889334",
       icon: <Avatar src={logo} />
-    },
+    },*/
     {
       link: "https://medium.com/@piyushverma955",
       name: "medium.com/@piyushverma955",
